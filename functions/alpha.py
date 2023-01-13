@@ -8,8 +8,7 @@ def alpha(s):
 
     Parameters
     ----------
-    sim : Frame
-        Simulation frame
+    s : DustPy simulation object
 
     Returns
     -------
