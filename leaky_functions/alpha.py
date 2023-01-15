@@ -1,4 +1,4 @@
-from functions.gaps import Kanagawa2017_gap_profile
+from leaky_functions.gaps import Kanagawa2017_gap_profile
 import numpy as np
 from scipy.interpolate import interp1d
 

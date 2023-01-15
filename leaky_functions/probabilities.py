@@ -1,5 +1,5 @@
 import numpy as np
-from functions.probabilities_f import bouncing_pstick
+from leaky_functions.probabilities_f import bouncing_pstick
 
 
 def bouncing(s):

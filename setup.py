@@ -5,9 +5,9 @@ from numpy.distutils.core import setup
 package_name = "leaky_dust_traps"
 
 ext_prob = Extension(
-    name="functions.probabilities_f",
+    name="leaky_functions.probabilities_f",
     sources=[
-        "functions/probabilities.f90"]
+        "leaky_functions/probabilities.f90"]
 )
 extensions = [ext_prob]
 

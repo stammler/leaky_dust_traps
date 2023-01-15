@@ -1,6 +1,6 @@
 from dustpy import Simulation
 import dustpy.constants as c
-from functions.alpha import alpha
+from leaky_functions.alpha import alpha
 import numpy as np
 import parameters as pars
 

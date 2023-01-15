@@ -1,9 +1,8 @@
 from dustpy import Simulation
 import dustpy.constants as c
-from functions.alpha import alpha
-from functions.grid import refinegrid
-from functions.probabilities import bouncing
-from functions.planet import Mp_slow
+from leaky_functions.alpha import alpha
+from leaky_functions.probabilities import bouncing
+from leaky_functions.planet import Mp_slow
 import numpy as np
 import parameters as pars
 

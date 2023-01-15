@@ -1,7 +1,7 @@
 from dustpy import Simulation
 import dustpy.constants as c
-from functions.alpha import alpha
-from functions.probabilities import bouncing
+from leaky_functions.alpha import alpha
+from leaky_functions.probabilities import bouncing
 import numpy as np
 import parameters as pars
 
