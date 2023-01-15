@@ -39,13 +39,13 @@ The following model setups are available in the repository
 | [`toy_saturn_bouncing`](https://github.com/stammler/leaky_dust_traps/tree/main/models/toy_saturn_bouncing)                   | $M_\mathrm{sat}$  | Toy model, Saturn mass planet, bouncing                            |
 | [`toy_saturn_vFrag100`](https://github.com/stammler/leaky_dust_traps/tree/main/models/toy_saturn_vFrag100)              | $M_\mathrm{sat}$  | Toy model, Saturn mass planet, $v_\mathrm{frag}=1$ m/s             |
 | [`full_noPlanet`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_noPlanet)                               | –                 | Full model, without planet                                         |
-| [`full_30Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_30Me)                                      | $30\,M_\oplus$    | Full model, 30 Earth mass planet                                   |
-| [`full_50Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_50Me)                                       | $50\,M_\oplus$    | Full model, 50 Earth mass planet                                   |
+| [`full_30Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_30Me)                                      | $30M_\oplus$    | Full model, 30 Earth mass planet                                   |
+| [`full_50Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_50Me)                                       | $50M_\oplus$    | Full model, 50 Earth mass planet                                   |
 | [`full_saturn_deltar2`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_saturn_deltar2)                   | $M_\mathrm{sat}$  | Full model, Saturn Earth mass planet, $\delta_r = 10^{-2}$         |
 | [`full_saturn`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_saturn)                                   | $M_\mathrm{sat}$  | Full model, without planet                                         |
 | [`full_saturn_deltar4`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_saturn_deltar4)                   | $M_\mathrm{sat}$  | Full model, Saturn Earth mass planet, $\delta_r = 10^{-4}$         |
 | [`full_saturn_deltar5`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_saturn_deltar5)                   | $M_\mathrm{sat}$  | Full model, Saturn Earth mass planet, $\delta_r = 10^{-5}$         |
-| [`full_200Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_200Me)                                     | $200\,M_\oplus$   | Full model, 200 Earth mass planet                                  |
+| [`full_200Me`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_200Me)                                     | $200M_\oplus$   | Full model, 200 Earth mass planet                                  |
 | [`full_jupiter`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_jupiter)                                 | $M_\mathrm{jup}$  | Full model, Jupiter mass planet                                    |
 | [`full_MtSlow`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtSlow)                                   | $M\left(t\right)$ | Full model, slowly growing planet                                  |
 | [`full_MtSlow_deltar4`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtSlow_deltar4)                   | $M\left(t\right)$ | Full model, slowly growing planet, $\delta_r = 10^{-4}$            |
@@ -53,6 +53,28 @@ The following model setups are available in the repository
 | [`full_MtSlow_bouncing`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtSlow_bouncing)                 | $M\left(t\right)$ | Full model, slowly growing planet, bouncing                        |
 | [`full_MtSlow_bouncing_deltas5`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtSlow_bouncing_deltas5) | $M\left(t\right)$ | Full model, slowly growing planet, bouncing, $\delta_i = 10^{-5}$  |
 | [`full_MtFast_bouncing_deltas5`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtFast_bouncing_deltas5) | $M\left(t\right)$ | Full model, rapidly growing planet, bouncing, $\delta_i = 10^{-5}$ |
+
+## Citation
+
+Please cite the following publication
+
+```
+@ARTICLE{2023arXiv##########,
+       author = {{Stammler}, Sebastian Markus and {Lichtenberg}, Tim and {Dr{\k{a}}{\.z}kowska}, Joanna and {Birnstiel}, Tilman},
+        title = "{Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2023,
+        month = jan,
+          eid = {arXiv:2301.#####},
+        pages = {arXiv:2301.#####},
+archivePrefix = {arXiv},
+       eprint = {2301.#####},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv##########},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
 
 ## Acknowledgements
 
