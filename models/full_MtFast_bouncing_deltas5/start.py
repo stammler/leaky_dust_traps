@@ -51,13 +51,6 @@ s.planets.p00.updater = ["M"]
 s.planets.updater = ["p00"]
 s.updater = ["planets"] + s.updateorder
 
-# Making refined grid
-if pars.refine:
-    ri = np.logspace(np.log10(pars.rmin), np.log10(pars.rmax), pars.Nr+1)
-    for i in range(len(pars.Mp)):
-        ri = refinegrid(ri, pars.ap[i], num=3)
-    s.grid.ri = ri
-
 # Initializing
 s.initialize()
 

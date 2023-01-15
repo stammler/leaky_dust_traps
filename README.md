@@ -7,7 +7,7 @@ This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups
 ## Installation
 
 The models contain Fortran modules that need to be compiled first. To do so clone the repository and run the setup script.  
-A Fotran compiler is required.
+`NumPy` and a Fotran compiler is required.
 
 ```
 git clone git@github.com:stammler/leaky_dust_traps.git
