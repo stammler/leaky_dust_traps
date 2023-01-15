@@ -54,6 +54,10 @@ The following model setups are available in the repository
 | [`full_MtSlow_bouncing_deltas5`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtSlow_bouncing_deltas5) | $M\left(t\right)$ | Full model, slowly growing planet, bouncing, $\delta_i = 10^{-5}$  |
 | [`full_MtFast_bouncing_deltas5`](https://github.com/stammler/leaky_dust_traps/tree/main/models/full_MtFast_bouncing_deltas5) | $M\left(t\right)$ | Full model, rapidly growing planet, bouncing, $\delta_i = 10^{-5}$ |
 
+## Notebook
+
+The notebook producing the figures of the publication can be found [here](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb).
+
 ## Citation
 
 Please cite the following publication
