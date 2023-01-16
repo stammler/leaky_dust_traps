@@ -1,8 +1,8 @@
-[![arXiv](https://img.shields.io/badge/arXiv-10.48550/arXiv.2301.#####-blue)](https://doi.org/10.48550/arXiv.2301.#####) [![GitHub](https://img.shields.io/github/license/stammler/leaky_dust_traps)](https://github.com/stammler/leaky_dust_traps/blob/master/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-10.48550/arXiv.2301.05505-blue)](https://arxiv.org/abs/2301.05505) [![GitHub](https://img.shields.io/github/license/stammler/leaky_dust_traps)](https://github.com/stammler/leaky_dust_traps/blob/master/LICENSE)
 
 # Leaky Dust Traps
 
-This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets]().
+This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets](https://arxiv.org/abs/2301.05505).
 
 ## Installation
 
@@ -63,19 +63,19 @@ The notebook producing the figures of the publication can be found [here](https:
 Please cite the following publication
 
 ```
-@ARTICLE{2023arXiv##########,
+@ARTICLE{2023arXiv230105505,
        author = {{Stammler}, Sebastian Markus and {Lichtenberg}, Tim and {Dr{\k{a}}{\.z}kowska}, Joanna and {Birnstiel}, Tilman},
         title = "{Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets}",
       journal = {arXiv e-prints},
      keywords = {Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = jan,
-          eid = {arXiv:2301.#####},
-        pages = {arXiv:2301.#####},
+          eid = {arXiv:2301.05505},
+        pages = {arXiv:2301.05505},
 archivePrefix = {arXiv},
-       eprint = {2301.#####},
+       eprint = {2301.05505},
  primaryClass = {astro-ph.EP},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv##########},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230105505},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
