@@ -58,28 +58,6 @@ The following model setups are available in the repository
 
 The notebook producing the figures of the publication can be found [here](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb).
 
-## Citation
-
-Please cite the following publication
-
-```
-@ARTICLE{2023arXiv230105505,
-       author = {{Stammler}, Sebastian Markus and {Lichtenberg}, Tim and {Dr{\k{a}}{\.z}kowska}, Joanna and {Birnstiel}, Tilman},
-        title = "{Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Earth and Planetary Astrophysics},
-         year = 2023,
-        month = jan,
-          eid = {arXiv:2301.05505},
-        pages = {arXiv:2301.05505},
-archivePrefix = {arXiv},
-       eprint = {2301.05505},
- primaryClass = {astro-ph.EP},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230105505},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-```
-
 ## Acknowledgements
 
 This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme under grant agreement No 714769. This project has received funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) through grants FOR 2634/1 and 361140270. This research was supported by the Munich Institute for Astro-, Particle and BioPhysics (MIAPbP) which is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC-2094 – 390783311. JD was funded by the European Union under the European Union’s Horizon Europe Research & Innovation Programme 101040037 (PLANETOIDS). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them. TL was supported by grants from the Simons Foundation (SCOL Award No. 611576) and the Branco Weiss Foundation.
