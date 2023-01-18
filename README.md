@@ -1,9 +1,8 @@
-[![arXiv](https://img.shields.io/badge/arXiv-10.48550/arXiv.2301.05505-blue)](https://doi.org/10.48550/arXiv.2301.05505)  
+[![Astronomy & Astrophysics](https://img.shields.io/badge/Astronomy_&_Astrophysics-10.1051/0004--6361/202245512-blue)](https://doi.org/10.1051/0004-6361/202245512) [![arXiv](https://img.shields.io/badge/arXiv-10.48550/arXiv.2301.05505-blue)](https://doi.org/10.48550/arXiv.2301.05505)  
 [![GitHub](https://img.shields.io/github/license/stammler/leaky_dust_traps)](https://github.com/stammler/leaky_dust_traps/blob/main/LICENSE)
-
 # Leaky Dust Traps
 
-This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets](https://arxiv.org/abs/2301.05505).
+This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets](https://doi.org/10.1051/0004-6361/202245512).
 
 ## Installation
 
