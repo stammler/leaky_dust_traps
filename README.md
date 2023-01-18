@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/github/license/stammler/leaky_dust_traps)](https://github.com/stammler/leaky_dust_traps/blob/main/LICENSE)
 # Leaky Dust Traps
 
-This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets](https://doi.org/10.1051/0004-6361/202245512).
+This repository contains the [DustPy](https://stammler.github.io/dustpy/) setups and a [notebook](https://github.com/stammler/leaky_dust_traps/blob/main/notebooks/plots.ipynb) producing the figures of the publication [Leaky dust traps: How fragmentation impacts dust filtering by planets](https://doi.org/10.1051/0004-6361/202245512).
 
 ## Installation
 
