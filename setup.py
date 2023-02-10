@@ -1,6 +1,15 @@
 from setuptools import find_packages
-from numpy.distutils.core import Extension
-from numpy.distutils.core import setup
+import sys
+try:
+    from numpy.distutils.core import Extension
+    from numpy.distutils.core import setup
+except ImportError as exc:  # We do not have our build deps installed
+    msg = "Error: {} must be installed before running the build.".format(
+        exc.name)
+    msg += "\nPlease install {} first. You can do this with `pip install {}`.".format(
+        exc.name, exc.name)
+    print(msg)
+    sys.exit(1)
 
 package_name = "leaky_dust_traps"
 
@@ -33,7 +42,8 @@ setup(
     ext_modules=extensions,
 
     packages=find_packages(),
-    install_requires=["dustpy==1.0.1", "matplotlib", "numpy", "scipy"],
+    install_requires=["charset_normalizer",
+                      "dustpy==1.0.1", "matplotlib", "numpy", "scipy"],
     include_package_data=True,
     zip_safe=False,
 )

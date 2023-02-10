@@ -30,7 +30,7 @@ subroutine bouncing_pstick(dv, m, ps, Nr, Nm)
    integer :: j
 
    mb = 3.3d-3
-   ms = 3.0e-12
+   ms = 3.0d-12
 
    k0 = LOG10(mb/ms)
    k1 = 3.6d0/k0

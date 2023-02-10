@@ -1,3 +1,4 @@
+charset_normalizer
 dustpy==1.0.1
 matplotlib
 numpy
