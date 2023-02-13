@@ -63,19 +63,21 @@ The notebook producing the figures of the publication can be found [here](https:
 Please cite the following publication
 
 ```
-@ARTICLE{2023arXiv230105505S,
+@ARTICLE{2023A&A...670L...5S,
        author = {{Stammler}, Sebastian Markus and {Lichtenberg}, Tim and {Dr{\k{a}}{\.z}kowska}, Joanna and {Birnstiel}, Tilman},
-        title = "{Leaky Dust Traps: How Fragmentation impacts Dust Filtering by Planets}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+        title = "{Leaky dust traps: How fragmentation impacts dust filtering by planets}",
+      journal = {\aap},
+     keywords = {meteorites, meteors, meteoroids, methods: numerical, protoplanetary disks, planets and satellites: formation, planets and satellites: composition, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
-        month = jan,
-          eid = {arXiv:2301.05505},
-        pages = {arXiv:2301.05505},
+        month = feb,
+       volume = {670},
+          eid = {L5},
+        pages = {L5},
+          doi = {10.1051/0004-6361/202245512},
 archivePrefix = {arXiv},
        eprint = {2301.05505},
  primaryClass = {astro-ph.EP},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230105505S},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...670L...5S},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
